@@ -1,1 +1,2 @@
 # amazon-clone-landing-page
+Check out my GitHub project where I've recreated Amazon's landing page using HTML and CSS! Experience the familiar interface of Amazon with my clone. This project demonstrates my proficiency in HTML and CSS technologies. Perfect for showcasing my front-end development skills to potential employers. Explore the code and see how I've replicated the layout and design of Amazon's homepage. Dive in and discover the simplicity and clarity of my coding style.
